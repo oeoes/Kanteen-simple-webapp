@@ -1,17 +1,17 @@
-#Kan_teen Web App Using Laravel Framework
+# Kan_teen Web App Using Laravel Framework
 <p>
     Sesuai namanya, kan_teen merupakan aplikasi berbasis web yang bergerak dalam bidang
     layanan pengantaran dan penjualan makanan. Pengguna aplikasi ini ditargetkan khusus untuk kantin, baik yang ada dikampus ataupun instansi lainya. 
 </p>
 
-###Brief Explanation
+### Brief Explanation
 <p>Untuk user, dalam aplikasi ini terdiri dari dua:</p>
 <ol>
     <li>Visitor a.k. Buyer</li>
     <li>Seller</li>
 </ol>
 
-###Features
+### Features
 <ul>
     <li>Visitor / Buyer :</li>
     <ol>
@@ -27,7 +27,7 @@
     </ol>
 </ul>
 
-###How To Use
+### How To Use
 * Clone project
 * buat database dengan nama sesuai keinginan
 * rename file _.env.example_ ke _.env_
